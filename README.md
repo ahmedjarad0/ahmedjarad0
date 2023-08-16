@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Jarad</h1>
 <h3 align="center">Flutter Developer ,interested in Data science</h3>
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/100rabhcsmc?label=Followers)
 ![Repos Badge](https://badges.pufler.dev/repos/100rabhcsmc)
 <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 >
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-</div>
 - 🔭 I’m currently working on [Alqeeqcompany](https://www.linkedin.com/company/alqeeq/)
 
 - 🌱 I’m currently learning **SBOL3 and Microsoft Azure**
