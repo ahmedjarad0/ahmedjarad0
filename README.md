@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Jarad</h1>
 <h3 align="center">Flutter Developer ,interested in Data science</h3>
 
-<div align="center"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedjarad0?label=Followers)
 ![Repos Badge](https://badges.pufler.dev/repos/ahmedjarad0)
-<img src="https://komarev.com/ghpvc/?username=ahmedjarad0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjarad0" />
+<img src="https://komarev.com/ghpvc/?username=ahmedjarad0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 >
 
 </div>
