@@ -9,7 +9,7 @@
 >
 
 </div>
-- 🔭 I’m currently working on [Alqeeqcompany]
+- 🔭 I’m currently working on **Alqeeqcompany**
 
 - 🌱 I’m currently learning **SBOL3 and Microsoft Azure**
 
