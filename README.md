@@ -3,8 +3,8 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/ahmedjarad0?label=Followers)
-![Repos Badge](https://badges.pufler.dev/repos/ahmedjarad0)
+![GitHub followers](https://img.shields.io/github/followers/100rabhcsmc?label=Followers)
+![Repos Badge](https://badges.pufler.dev/repos/100rabhcsmc)
 <img src="https://komarev.com/ghpvc/?username=ahmedjarad0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 >
 
