@@ -7,7 +7,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/100rabhcsmc)
 <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 >
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 500px></picture>
 
 - 🔭 I’m currently working on [Alqeeqcompany](https://www.linkedin.com/company/alqeeq/)
 
