@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Jarad</h1>
 <h3 align="center">Flutter Developer ,interested in Data science</h3>
+<p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-
-
+</p>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/100rabhcsmc?label=Followers)
