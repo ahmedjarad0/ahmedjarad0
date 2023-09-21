@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 400px></picture>
 
-- 🔭 I’m currently working on **Alqeeqcompany**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **SBOL3 and Microsoft Azure**
 
