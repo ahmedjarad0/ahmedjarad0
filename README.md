@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **SBOL3 and Laravel Php** 
+- 🌱 I’m currently learning **SBOL3 and Microsoft Azure** 
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
